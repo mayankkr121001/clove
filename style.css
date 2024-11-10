@@ -929,6 +929,7 @@ button {
     justify-content: space-between;
     align-items: center;
     margin-top: 60px;
+    cursor: pointer;
 }
 
 .section12Question {
